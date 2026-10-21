@@ -1,0 +1,745 @@
+FACILITY CODE,DRUG CODE,DRUG NAME,DRUG FORM,QUANTITY REQUESTED,DATE
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,08/01/2020
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,24000,08/01/2020
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,0,08/01/2020
+1,PARA1158       ,Paracetamol 120mg/5ml Syrup,SYRUP,0,08/01/2020
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,40,08/01/2020
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,600,08/01/2020
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,08/01/2020
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,08/01/2020
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,08/01/2020
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,6000,08/01/2020
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,09/01/2020
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,09/01/2020
+3,PARA1158       ,Paracetamol 120mg/5ml Syrup,SYRUP,300,09/01/2020
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,09/01/2020
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,50,09/01/2020
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,09/01/2020
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,0,09/01/2020
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,09/01/2020
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,400,09/01/2020
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,0,09/01/2020
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,09/01/2020
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,12/01/2020
+2,PARA1158       ,Paracetamol 120mg/5ml Syrup,SYRUP,240,12/01/2020
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,0,12/01/2020
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,12/01/2020
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,700,12/01/2020
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,12/01/2020
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,12/01/2020
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,13/01/2020
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,13/01/2020
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,13/01/2020
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,700,02/02/2020
+2,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,5000,02/02/2020
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,20000,02/02/2020
+3,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,200,02/02/2020
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,01/04/2020
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,25000,01/04/2020
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/04/2020
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2000,01/04/2020
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,01/04/2020
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,0,01/04/2020
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,7000,01/04/2020
+1,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,01/04/2020
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,400,02/04/2020
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,02/04/2020
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,02/04/2020
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,02/04/2020
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,1600,02/04/2020
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,02/04/2020
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,03/04/2020
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,03/04/2020
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,03/04/2020
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,04/04/2020
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,04/04/2020
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,05/04/2020
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,05/04/2020
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,05/04/2020
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,0,06/04/2020
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,06/04/2020
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,01/07/2020
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,01/07/2020
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/07/2020
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,01/07/2020
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,250,01/07/2020
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/07/2020
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/07/2020
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,5,03/07/2020
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,03/07/2020
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,03/07/2020
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,30000,03/07/2020
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,03/07/2020
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,03/07/2020
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,100,03/07/2020
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1200,03/07/2020
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,50,03/07/2020
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,03/07/2020
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,200,03/07/2020
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,03/07/2020
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,03/07/2020
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,8000,03/07/2020
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,01/10/2020
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,50000,01/10/2020
+1,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,500,01/10/2020
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,0,01/10/2020
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,0,01/10/2020
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/10/2020
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,10000,01/10/2020
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,04/10/2020
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,04/10/2020
+3,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,0,04/10/2020
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,04/10/2020
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,04/10/2020
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,04/10/2020
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,04/10/2020
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,10/10/2020
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,20000,10/10/2020
+2,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,120,10/10/2020
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,10/10/2020
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,10/10/2020
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,0,10/10/2020
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,0,10/10/2020
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,100,01/01/2021
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,01/01/2021
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,01/01/2021
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,20000,01/01/2021
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,01/01/2021
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,30000,01/01/2021
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,70,01/01/2021
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,01/01/2021
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,0,01/01/2021
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,01/01/2021
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,01/01/2021
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,01/01/2021
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/01/2021
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,01/01/2021
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/01/2021
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,01/01/2021
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,01/01/2021
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,01/01/2021
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/01/2021
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,0,01/01/2021
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,01/01/2021
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,01/01/2021
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/01/2021
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/01/2021
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,01/04/2021
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,30,01/04/2021
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,8000,01/04/2021
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,01/04/2021
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,80,01/04/2021
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,70,01/04/2021
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,01/04/2021
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/04/2021
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,01/04/2021
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,0,01/04/2021
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,01/04/2021
+1,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,02/04/2021
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,02/04/2021
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,8000,02/04/2021
+1,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,0,02/04/2021
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,02/04/2021
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,02/04/2021
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,02/04/2021
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,02/04/2021
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,02/04/2021
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,04/04/2021
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,04/04/2021
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,8000,04/04/2021
+3,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,0,04/04/2021
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,20,04/04/2021
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,04/04/2021
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,04/04/2021
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,04/04/2021
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,04/04/2021
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,4000,04/04/2021
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,01/07/2021
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,01/07/2021
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,01/07/2021
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,01/07/2021
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,6000,01/07/2021
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,01/07/2021
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,01/07/2021
+1,PARA1158       ,Paracetamol 120mg/5ml Syrup,SYRUP,200,01/07/2021
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,01/07/2021
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,600,01/07/2021
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,700,01/07/2021
+1,PAR6905   ,Paracetamol 1g Inj,Intravenous,50,01/07/2021
+1,PARA1848       ,"Paracetamol Suppository, 1g",Suppository,40,01/07/2021
+3,DIC6460   ,"Diclofenac Gel, 30g",Gel,50,01/07/2021
+1,DIC6460   ,"Diclofenac Gel, 30g",Gel,50,01/07/2021
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,03/07/2021
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,03/07/2021
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,03/07/2021
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,60,03/07/2021
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,03/07/2021
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,03/07/2021
+2,PARA1158       ,Paracetamol 120mg/5ml Syrup,SYRUP,240,03/07/2021
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,30,03/07/2021
+2,PAR6905   ,Paracetamol 1g Inj,Intravenous,0,03/07/2021
+2,PARA1848       ,"Paracetamol Suppository, 1g",Suppository,60,03/07/2021
+2,DIC6460   ,"Diclofenac Gel, 30g",Gel,80,03/07/2021
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,400,05/07/2021
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,05/07/2021
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,05/07/2021
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,50,05/07/2021
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,05/07/2021
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,24000,05/07/2021
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,05/07/2021
+3,PARA1158       ,Paracetamol 120mg/5ml Syrup,SYRUP,300,05/07/2021
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,05/07/2021
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,0,05/07/2021
+3,PAR6905   ,Paracetamol 1g Inj,Intravenous,50,05/07/2021
+3,PARA1848       ,"Paracetamol Suppository, 1g",Suppository,50,05/07/2021
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,01/10/2021
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,01/10/2021
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,9000,01/10/2021
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,50,01/10/2021
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,60,01/10/2021
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/10/2021
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,01/10/2021
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,01/10/2021
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/10/2021
+1,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,02/10/2021
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,02/10/2021
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,12000,02/10/2021
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,80,02/10/2021
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,02/10/2021
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,900,02/10/2021
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,02/10/2021
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,800,02/10/2021
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,6000,02/10/2021
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,05/10/2021
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,05/10/2021
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,9000,05/10/2021
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,0,05/10/2021
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,05/10/2021
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,05/10/2021
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,05/10/2021
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,0,05/10/2021
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,0,05/10/2021
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/01/2022
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,6000,01/01/2022
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,4000,01/01/2022
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,01/01/2022
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,01/01/2022
+1,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,2,01/01/2022
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,01/01/2022
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,01/01/2022
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,20,01/01/2022
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,25000,01/01/2022
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,01/01/2022
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,01/01/2022
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/01/2022
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,01/01/2022
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,01/01/2022
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2000,01/01/2022
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,400,01/01/2022
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,0,01/01/2022
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,40,01/01/2022
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,50,01/01/2022
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,0,01/01/2022
+1,PARA1849,"Diclofenac Suppository, 100 Mg",Suppository,40,01/01/2022
+2,PARA1849,"Diclofenac Suppository, 100 Mg",Suppository,50,01/01/2022
+3,PARA1849,"Diclofenac Suppository, 100 Mg",Suppository,50,01/01/2022
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,20,01/01/2022
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,30,01/01/2022
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,0,01/01/2022
+1,PARA1159,Paracetamol Syrup 125mg/5ml,SYRUP,100,01/01/2022
+2,PARA1159,Paracetamol Syrup 125mg/5ml,SYRUP,100,01/01/2022
+3,PARA1159,Paracetamol Syrup 125mg/5ml,SYRUP,50,01/01/2022
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,50,01/01/2022
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,100,01/01/2022
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,50,01/01/2022
+1,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,0,01/01/2022
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,50,01/01/2022
+3,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,10,01/01/2022
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,40,01/01/2022
+2,DIC6460   ,"Diclofenac Gel, 30g",GEL,50,01/01/2022
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,60,01/01/2022
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,01/04/2022
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/04/2022
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,8000,01/04/2022
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,01/04/2022
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,30000,01/04/2022
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,01/04/2022
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1200,01/04/2022
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,50,02/04/2022
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,200,02/04/2022
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,02/04/2022
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,5,02/04/2022
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,02/04/2022
+2,PETH275,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,02/04/2022
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,100,02/04/2022
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,250,03/04/2022
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,03/04/2022
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,03/04/2022
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,03/04/2022
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,03/04/2022
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,03/04/2022
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,03/04/2022
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,250,01/07/2022
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,01/07/2022
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/07/2022
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/07/2022
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/07/2022
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,8000,01/07/2022
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,01/07/2022
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,01/07/2022
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,15000,01/07/2022
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,30000,01/07/2022
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/07/2022
+1,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,01/07/2022
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,01/07/2022
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1200,01/07/2022
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,40,01/07/2022
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,20,01/07/2022
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,50,01/07/2022
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,60,01/07/2022
+3,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,01/07/2022
+1,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,200,01/07/2022
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,50,04/07/2022
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,200,04/07/2022
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,04/07/2022
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,5,04/07/2022
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,04/07/2022
+2,PETH275,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,04/07/2022
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,100,04/07/2022
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,50,04/07/2022
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,100,04/07/2022
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,40,04/07/2022
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/10/2022
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,90,01/10/2022
+2,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,20000,01/10/2022
+2,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,500,01/10/2022
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,02/10/2022
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,20000,02/10/2022
+2,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,120,02/10/2022
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,02/10/2022
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,03/10/2022
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,10000,03/10/2022
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,50000,03/10/2022
+1,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,500,03/10/2022
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,05/10/2022
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,05/10/2022
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,05/10/2022
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,05/10/2022
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,05/10/2022
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,05/10/2022
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,01/01/2023
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,300,01/01/2023
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,01/01/2023
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,300,01/01/2023
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,50,01/01/2023
+2,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,3000,01/01/2023
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,02/01/2023
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,03/01/2023
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,04/01/2023
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,05/01/2023
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,10000,06/01/2023
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,07/01/2023
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,08/01/2023
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,20000,09/01/2023
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,50000,10/01/2023
+2,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,120,11/01/2023
+1,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,500,12/01/2023
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,13/01/2023
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,14/01/2023
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,01/04/2023
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,01/04/2023
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,70,01/04/2023
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,100,01/04/2023
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,20000,01/04/2023
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,01/04/2023
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/04/2023
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,02/04/2023
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,02/04/2023
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,02/04/2023
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,02/04/2023
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,02/04/2023
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,04/04/2023
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,04/04/2023
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,04/04/2023
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,04/04/2023
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,30000,04/04/2023
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,04/04/2023
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,03/07/2023
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,03/07/2023
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,70,03/07/2023
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,30,03/07/2023
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,8000,03/07/2023
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,03/07/2023
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,03/07/2023
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,04/07/2023
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,04/07/2023
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,4000,04/07/2023
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,20,04/07/2023
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,04/07/2023
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,04/07/2023
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,8000,04/07/2023
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,04/07/2023
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,04/07/2023
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,07/07/2023
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,07/07/2023
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,07/07/2023
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,80,07/07/2023
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,8000,07/07/2023
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,07/07/2023
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,02/10/2023
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,800,02/10/2023
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,6000,02/10/2023
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,80,02/10/2023
+1,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,02/10/2023
+1,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,02/10/2023
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,12000,02/10/2023
+1,PETH275,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,02/10/2023
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,900,02/10/2023
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,03/10/2023
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,0,03/10/2023
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,0,03/10/2023
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,0,03/10/2023
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,0,03/10/2023
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,03/10/2023
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,9000,03/10/2023
+2,PETH275,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,03/10/2023
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,03/10/2023
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,05/10/2023
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,05/10/2023
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,05/10/2023
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,50,05/10/2023
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,05/10/2023
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,05/10/2023
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,9000,05/10/2023
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,60,05/10/2023
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,05/10/2023
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,01/01/2024
+1,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/01/2024
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,200,01/01/2024
+1,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/01/2024
+1,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,01/01/2024
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,40,01/01/2024
+1,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,20,01/01/2024
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,5,01/01/2024
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,5,01/01/2024
+3,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,5,01/01/2024
+1,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,12000,01/01/2024
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,01/01/2024
+3,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,01/01/2024
+3,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,01/01/2024
+1,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1500,01/01/2024
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/01/2024
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,02/01/2024
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,02/01/2024
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,70,02/01/2024
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,20,02/01/2024
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,02/01/2024
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,200,02/01/2024
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,60,02/01/2024
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,02/01/2024
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,200,01/04/2024
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,01/04/2024
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,01/04/2024
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,01/04/2024
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,01/04/2024
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,01/04/2024
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,8000,01/04/2024
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,01/04/2024
+1,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,8000,01/04/2024
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,01/04/2024
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,300,01/04/2024
+3,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,50,01/04/2024
+3,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,01/04/2024
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,30,01/04/2024
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,100,01/04/2024
+3,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,18000,01/04/2024
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,18000,01/04/2024
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,20000,01/04/2024
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,20000,01/04/2024
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,100,01/04/2024
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,400,01/04/2024
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,01/04/2024
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/04/2024
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,200,01/04/2024
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/04/2024
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/04/2024
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,3000,01/04/2024
+2,DIC6460   ,"Diclofenac Gel, 30g",GEL,200,03/04/2024
+2,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,03/04/2024
+2,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,03/04/2024
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,200,03/04/2024
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,01/07/2024
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,01/07/2024
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,120,01/07/2024
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,30,01/07/2024
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,200,01/07/2024
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,01/07/2024
+2,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,300,01/07/2024
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/07/2024
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2000,01/07/2024
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,200,02/07/2024
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,02/07/2024
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,800,02/07/2024
+1,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,7000,02/07/2024
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,120,02/07/2024
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,20,02/07/2024
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,250,02/07/2024
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,300,02/07/2024
+1,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,02/07/2024
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2000,02/07/2024
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,50,04/07/2024
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,04/07/2024
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,200,04/07/2024
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,500,04/07/2024
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,30,04/07/2024
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,15,04/07/2024
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,30,04/07/2024
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,200,04/07/2024
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,70,04/07/2024
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,300,04/07/2024
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,02/10/2024
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,2000,02/10/2024
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,02/10/2024
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,20,02/10/2024
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,02/10/2024
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,02/10/2024
+2,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,300,02/10/2024
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,02/10/2024
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,50,05/10/2024
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,200,05/10/2024
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,05/10/2024
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2000,05/10/2024
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,30,05/10/2024
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,3,05/10/2024
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,20,05/10/2024
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,50,05/10/2024
+3,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,200,05/10/2024
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,70,05/10/2024
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,300,05/10/2024
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,200,08/10/2024
+1,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,08/10/2024
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,08/10/2024
+1,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,7000,08/10/2024
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,08/10/2024
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,30,08/10/2024
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,12000,08/10/2024
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,100,08/10/2024
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,300,08/10/2024
+1,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,08/10/2024
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2000,08/10/2024
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2000,08/10/2024
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,100,01/01/2025
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,200,01/01/2025
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,01/01/2025
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,800,01/01/2025
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,01/01/2025
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,01/01/2025
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,01/01/2025
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,500,01/01/2025
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,01/01/2025
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,01/01/2025
+2,IBUP-3048,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,01/01/2025
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,15,01/01/2025
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,01/01/2025
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,100,01/01/2025
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,100,01/01/2025
+3,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,15000,01/01/2025
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,30000,01/01/2025
+2,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,30000,01/01/2025
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,200,01/01/2025
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,250,01/01/2025
+2,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,100,01/01/2025
+3,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,200,01/01/2025
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,400,01/01/2025
+2,PARA1158       ,Paracetamol Syrup 125mg/5ml,SYRUP,500,01/01/2025
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/01/2025
+1,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/01/2025
+2,PETH275        ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,01/01/2025
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,01/01/2025
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,01/01/2025
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2000,01/01/2025
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,100,01/01/2025
+3,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,200,01/01/2025
+3,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,1000,01/01/2025
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,10000,01/01/2025
+3,PARA1848       ,"Paracetamol Suppository, 1g",SUPPOSITORY,200,01/01/2025
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,200,01/01/2025
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,300,02/04/2025
+3,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,300,02/04/2025
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,02/04/2025
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,500,02/04/2025
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,250,02/04/2025
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,40,02/04/2025
+3,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,20000,02/04/2025
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,500,02/04/2025
+3,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,500,02/04/2025
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,100,02/04/2025
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,1000,02/04/2025
+2,DIC6460   ,"Diclofenac Gel, 30g",GEL,300,04/04/2025
+2,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,04/04/2025
+2,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2000,04/04/2025
+2,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,240,04/04/2025
+2,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,50,04/04/2025
+2,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,0,04/04/2025
+2,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,25000,04/04/2025
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,500,04/04/2025
+2,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,500,04/04/2025
+2,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,200,04/04/2025
+2,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,4000,04/04/2025
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,400,08/04/2025
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,08/04/2025
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,08/04/2025
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,08/04/2025
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,43,08/04/2025
+1,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,20,08/04/2025
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,30000,08/04/2025
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,450,08/04/2025
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,500,08/04/2025
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,250,02/07/2025
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,02/07/2025
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,1000,02/07/2025
+1,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,5000,02/07/2025
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,02/07/2025
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,02/07/2025
+1,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,02/07/2025
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,30000,02/07/2025
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,300,02/07/2025
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,400,02/07/2025
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,200,03/07/2025
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,03/07/2025
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,600,03/07/2025
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2000,03/07/2025
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,03/07/2025
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,200,03/07/2025
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,100,03/07/2025
+3,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,30000,03/07/2025
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,300,03/07/2025
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,03/07/2025
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,600,03/07/2025
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,700,05/07/2025
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,500,05/07/2025
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,20,05/07/2025
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,500,05/07/2025
+2,DIC6460   ,"Diclofenac Gel, 30g",GEL,200,06/07/2025
+2,DICL239,"Diclofenac Injection, 75mg",INTRAVENOUS,2500,06/07/2025
+2,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,2000,06/07/2025
+2,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2000,06/07/2025
+2,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,06/07/2025
+2,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,100,06/07/2025
+2,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,100,06/07/2025
+2,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,20000,06/07/2025
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,400,06/07/2025
+2,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,600,06/07/2025
+2,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,120,06/07/2025
+2,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,5000,06/07/2025
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,300,02/10/2025
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,02/10/2025
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,250,02/10/2025
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2000,02/10/2025
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,02/10/2025
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,25,02/10/2025
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,10,02/10/2025
+3,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,25000,02/10/2025
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,2500,02/10/2025
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,1000,02/10/2025
+3,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,250,02/10/2025
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,25,02/10/2025
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,5000,02/10/2025
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,150,02/10/2025
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,1000,03/10/2025
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,03/10/2025
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,03/10/2025
+1,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2500,03/10/2025
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,03/10/2025
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,03/10/2025
+1,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,25,03/10/2025
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,25000,03/10/2025
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,250,03/10/2025
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,250,03/10/2025
+1,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,03/10/2025
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,03/10/2025
+2,DIC6460   ,"Diclofenac Gel, 30g",GEL,100,08/10/2025
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,08/10/2025
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,08/10/2025
+2,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,5000,08/10/2025
+2,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,50,08/10/2025
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,5,08/10/2025
+2,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,15,08/10/2025
+2,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,25000,08/10/2025
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,300,08/10/2025
+2,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,500,08/10/2025
+2,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,08/10/2025
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,300,01/01/2026
+2,DIC6460   ,"Diclofenac Gel, 30g",GEL,100,01/01/2026
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,250,01/01/2026
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,01/01/2026
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,01/01/2026
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,50,01/01/2026
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/01/2026
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,01/01/2026
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,300,01/01/2026
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2000,01/01/2026
+2,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,0,01/01/2026
+1,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,5000,01/01/2026
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,01/01/2026
+2,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,0,01/01/2026
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,200,01/01/2026
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,20,01/01/2026
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,20,01/01/2026
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,01/01/2026
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,20,01/01/2026
+1,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,01/01/2026
+2,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,30,01/01/2026
+3,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,50000,01/01/2026
+2,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,50000,01/01/2026
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,50000,01/01/2026
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,5000,01/01/2026
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,1000,01/01/2026
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,600,01/01/2026
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,500,01/01/2026
+3,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,500,01/01/2026
+2,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,150,01/01/2026
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,250,01/01/2026
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,50,01/01/2026
+2,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,10,01/01/2026
+1,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,20,01/01/2026
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,2500,01/01/2026
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,01/01/2026
+2,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,0,01/01/2026
+2,DIC6460   ,"Diclofenac Gel, 30g",GEL,300,01/04/2026
+2,DICL239        ,"Diclofenac Injection, 75mg",INTRAVENOUS,500,01/04/2026
+2,DICL-3044,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,150,01/04/2026
+2,DICL-3047,"Diclofenac Tablet, 50 Mg",TABLET,1000,01/04/2026
+2,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,60,01/04/2026
+2,XYLO591        ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,5,01/04/2026
+2,MORP-3058,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,01/04/2026
+2,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,25000,01/04/2026
+2,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,0,01/04/2026
+2,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,100,01/04/2026
+2,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,01/04/2026
+1,DIC6460   ,"Diclofenac Gel, 30g",GEL,500,03/04/2026
+1,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,250,03/04/2026
+1,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,03/04/2026
+1,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,2000,03/04/2026
+1,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,03/04/2026
+1,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,10,03/04/2026
+1,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,0,03/04/2026
+1,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,25000,03/04/2026
+1,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,250,03/04/2026
+1,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,250,03/04/2026
+1,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,0,03/04/2026
+1,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,500,03/04/2026
+3,DIC6460   ,"Diclofenac Gel, 30g",GEL,150,04/04/2026
+3,DICL239   ,"Diclofenac Injection, 75mg",INTRAVENOUS,1000,04/04/2026
+3,DICL-3044 ,"Diclofenac Suppository, 100 Mg",SUPPOSITORY,500,04/04/2026
+3,DICL-3047 ,"Diclofenac Tablet, 50 Mg",TABLET,1000,04/04/2026
+3,IBUP-3048 ,"Ibuprofen Suspension, 100 Mg/ 5 Ml",SUSPENSION,100,04/04/2026
+3,XYLO591   ,Lidocaine 2% (20ml) Plain,INTRAVENOUS,50,04/04/2026
+3,MORP-3058 ,"Morphine Injection, 10 Mg/ml",INTRAVENOUS,50,04/04/2026
+3,PARA520   ,"Paracetamol  Tablet, 500mg",TABLET,25000,04/04/2026
+3,PARA520        ,"Paracetamol  Tablet, 500mg",TABLET,2500,04/04/2026
+3,PAR6905   ,Paracetamol 1g Inj,INTRAVENOUS,1000,04/04/2026
+3,PARA1158  ,Paracetamol Syrup 125mg/5ml,SYRUP,250,04/04/2026
+3,PETH275   ,"Pethidine Injection 2ml, 50mg/ml",INTRAVENOUS,25,04/04/2026
+3,TRAM58    ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,0,04/04/2026
+3,TRAM58         ,"Tramadol Hydrochloride Capsule, 50 Mg",CAPSULES,150,04/04/2026
